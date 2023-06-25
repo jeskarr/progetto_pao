@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/logo.svg</file>
+        <file>assets/quote1.svg</file>
+        <file>assets/quote2.svg</file>
+        <file>assets/defeatIcon.svg</file>
+        <file>assets/victoryIcon.svg</file>
+        <file>assets/enter.svg</file>
+        <file>assets/defeatImg.png</file>
+        <file>assets/victoryImg.png</file>
+        <file>assets/imgPlaceholder.png</file>
+        <file>style.qss</file>
+        <file>assets/downArrow.png</file>
+        <file>assets/upArrow.png</file>
+        <file>immaginiSetEsempio/Arwen.jpg</file>
+        <file>immaginiSetEsempio/Balin.jpg</file>
+        <file>immaginiSetEsempio/Elrond.jpg</file>
+        <file>immaginiSetEsempio/Gimli.jpg</file>
+        <file>immaginiSetEsempio/Radagast.png</file>
+        <file>immaginiSetEsempio/Sauron.JPG</file>
+        <file>immaginiSetEsempio/Smaug.jpg</file>
+        <file>immaginiSetEsempio/Thorin.png</file>
+    </qresource>
+</RCC>

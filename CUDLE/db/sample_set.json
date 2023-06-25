@@ -1,0 +1,308 @@
+{
+    "attributes": [
+        "Even/Odd"
+    ],
+    "elements": [
+        {
+            "solution": "50",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "49",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "48",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "47",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "46",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "45",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "44",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "43",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "42",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "41",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "40",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "39",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "38",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "37",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "36",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "35",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "34",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "33",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "32",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "31",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "30",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "29",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "28",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "27",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "26",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "25",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "24",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "23",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "22",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "21",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "20",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "19",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "18",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "17",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "16",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "15",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "14",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "13",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "12",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "11",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "10",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "9",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "8",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "7",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "6",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "5",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "4",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "3",
+            "values": [
+                "Odd"
+            ]
+        },
+        {
+            "solution": "2",
+            "values": [
+                "Even"
+            ]
+        },
+        {
+            "solution": "1",
+            "values": [
+                "Odd"
+            ]
+        }
+    ],
+    "type": "number"
+}
